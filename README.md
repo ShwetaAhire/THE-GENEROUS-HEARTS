@@ -1,0 +1,1 @@
+"The Generous Hearts" is a responsive donation website aimed at connecting compassionate individuals with causes they care about. The website serves as a platform where users can explore various charitable organizations, learn about their missions, and contribute to their initiatives through secure donation channels.
